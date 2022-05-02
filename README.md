@@ -40,7 +40,7 @@ Indicates password strength
       </div>
 
       <button
-        class="bg-black text-white py-2 mt-4 inline-block w-full rounded"
+        class="bg-black text-blue py-2 mt-4 inline-block w-full rounded"
         type="submit"
       >
         Submit
